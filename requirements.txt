@@ -3,3 +3,4 @@ requests
 edge-tts 
 pyttsx3
 pycryptodome
+openai
