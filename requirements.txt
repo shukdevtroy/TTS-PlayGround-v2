@@ -1,0 +1,5 @@
+groq
+requests 
+edge-tts 
+pyttsx3
+pycryptodome
