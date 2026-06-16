@@ -1,5 +1,4 @@
-import os # operating system
-import numpy
+import os 
 import gradio as gr
 from groq import Groq
 import tempfile
